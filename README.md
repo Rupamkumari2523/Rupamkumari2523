@@ -86,4 +86,4 @@ A platform where users can access research papers, journals, and publishers fiel
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Rupamkumari2523&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Rupamkumari2523&label=Profile%20Views&color=blue&style=for-the-badge)
