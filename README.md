@@ -40,14 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupamkumari2523&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupamkumari2523&layout=compact&theme=tokyonight)
-
----
-
 ## 💻 Projects
 
 ### 📚 Research Paper Finder Website
@@ -80,7 +72,7 @@ A platform where users can access research papers, journals, and publishers fiel
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rupam-kumari-18745a33a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rupam-kumari-18745a33a)
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:rupamkumari0162@gmail.com)
 
