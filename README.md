@@ -43,12 +43,10 @@
 ## 💻 Projects
 
 ### 📚 Research Paper Finder Website
-A platform where users can access research papers, journals, and publishers field-wise and topic-wise.
 
-🔹 Tech Used:
-- React
-- JavaScript
-- CSS
+🔗 [View Repository](https://github.com/Rupamkumari2523/Journal_Lens)
+
+🔹 Built using React, JavaScript, and CSS to help users access research papers topic-wise and field-wise.
 
 ---
 
